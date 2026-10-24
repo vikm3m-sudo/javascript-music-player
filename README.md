@@ -16,6 +16,7 @@ A Spotify-like music player built using HTML, CSS, and JavaScript.
 
 ## How to Run
 Open `spot.html` in your browser.
+https://vikm3m-sudo.github.io/javascript-music-player
 
 ## Author
 Vikram Singh
